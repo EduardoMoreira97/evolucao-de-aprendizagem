@@ -1,4 +1,3 @@
-
 ## Conteúdos a serem trabalhados no módulo 02:
 
 - Funções
@@ -33,3 +32,12 @@
 - LINKEDIN PRIMEIROS PASSOS: Entender melhor essa plataforma e como pode ser utilizado no meu dia  a dia. 
 
 ## O que aprendi sobre os assuntos que foram abordados no módulo 02?
+
+- FUNÇÕES:É um conjunto de instruções compaquitada em um unico parametro, podendo ser utilizado diversas vezes sem que tenha uma poluição visual no codigo. Alem de ser mais simples na reutilização .
+- TIPOS DE DADOS: Focado no TypeScripit onde foi mostrado novas formas de tipar o codigo para que diminua os possiveis erros pelo codigo. 
+- TIPOS UTILITARIOS: utilizando tipagens apartir de uma biblioteca proprio do TypeScripit.
+- MÉTODOS DE STRING: Uma manipulação mais eficiente dos tipo string.
+- MÉTODOS DE ARRAYS: Uma metodologia utilizada para determinadas ações em Array. muitas que podem ser feitas de maneira que foi mostrada antes mas dessa forma é mais direta e limpa como push(), filter(), reduce() etc.
+- GESTÃO DE TEMPO: Metodologia  de produção de um programa, metodologia agil, onde pega um grande projeto e "quebra" para ser fenta em partes e conseguir fazer os testes necessarios.
+- POSTURA PROFISSIONAL: Posturas esperados durante oo trabalho de como se portar diantes de um problema, a procura individual em aprofundar em determinados topicos e saber pesquisar o que precisa.
+- LINKEDIN PRIMEIROS PASSOS: utilização mais aprofundada da plataforma.
